@@ -5,7 +5,7 @@ Official Go client for the AnonEx cryptocurrency exchange API.
 ## Installation
 
 ```bash
-go get github.com/anonex/anonex-go/anonex
+go get github.com/anonexio/connector_golang
 ```
 
 ## Quick Start
@@ -15,7 +15,7 @@ package main
 
 import (
     "fmt"
-    "github.com/anonex/anonex-go/anonex"
+    "github.com/anonexio/connector_golang"
 )
 
 func main() {
